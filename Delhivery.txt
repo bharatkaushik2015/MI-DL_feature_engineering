@@ -24,17 +24,34 @@ destination_name – Destination Name
 
 
 od_start_time – Trip start time
+
 od_end_time – Trip end time
+
 start_scan_to_end_scan – Time taken to deliver from source to destination
+
 is_cutoff – Unknown field
+
 cutoff_factor – Unknown field
+
 cutoff_timestamp – Unknown field
+
 actual_distance_to_destination – Distance in Kms between source and destination warehouse
+
 actual_time – Actual time taken to complete the delivery (Cumulative)
+
 osrm_time – An open-source routing engine time calculator which computes the shortest path between points in a given map (Includes usual traffic, distance through major and minor roads) and gives the time (Cumulative)
+
 osrm_distance – An open-source routing engine which computes the shortest path between points in a given map (Includes usual traffic, distance through major and minor roads) (Cumulative)
+
 factor – Unknown field
+
 segment_actual_time – This is a segment time. Time taken by the subset of the package delivery
+
 segment_osrm_time – This is the OSRM segment time. Time taken by the subset of the package delivery
+
 segment_osrm_distance – This is the OSRM distance. Distance covered by subset of the package delivery
+
 segment_factor – Unknown field
+
+Delievery Data -- KPIs 
+
